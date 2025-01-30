@@ -3,4 +3,6 @@
 Name : Enock Mecheo
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
-Enock Mecheo - [Here is the link to the PR that I contributed] - (https://github.com/cs-uh-3260/s25-i1-gitpractice-bab9755)
+
+## Contribution  
+[Here is the link to the PR that I contributed](https://github.com/cs-uh-3260/s25-i1-gitpractice-bab9755)
