@@ -6,3 +6,6 @@ The article also discusses how miscommunication and misunderstandings during the
 
 # Proof Reading
 Article checked for typos.
+
+### Comment from Pragya Chapagain
+<p>I found this article to be very interesting. In particular, it was a relief reading about the author's opinion on AI replacing software engineers. I liked that he differentiated software and code, and then explained that while AI can create code, it can not create software. I thought this article was very refreshingand I highly enjoyed reading it.</p> 
