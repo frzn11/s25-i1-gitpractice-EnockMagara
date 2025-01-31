@@ -8,4 +8,7 @@ The article also discusses how miscommunication and misunderstandings during the
 Article checked for typos.
 
 ### Comment from Pragya Chapagain
-<p>I found this article to be very interesting. In particular, it was a relief reading about the author's opinion on AI replacing software engineers. I liked that he differentiated software and code, and then explained that while AI can create code, it can not create software. I thought this article was very refreshingand I highly enjoyed reading it.</p> 
+<p>I found this article to be very interesting. In particular, it was a relief reading about the author's opinion on AI replacing software engineers. I liked that he differentiated software and code, and then explained that while AI can create code, it can not create software. I thought this article was very refreshingand I highly enjoyed reading it.</p>
+
+### Comment from Farzan Ali
+<p>What I find interesting is the comparison of AI in chess versus self-driving cars, emphasizing that while AI excels in rule-based environments, it struggles with the complexity and unpredictability of real-world scenarios—just like software development.</p> 
